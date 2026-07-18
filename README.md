@@ -1,4 +1,4 @@
-![Logo de Valeria Yunga - Software Engineer](https://github.com/valeriayunga/valeriayunga/blob/main/image_13.png?raw=true)
+![Logo de Valeria Yunga - Software Engineer](https://github.com/valeriayunga/valeriayunga/blob/main/Banner%20de%20LinkedIn%20negocios%20color%20amarillo.png)
 
 <!--
 **valeriayunga/valeriayunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
