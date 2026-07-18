@@ -1,4 +1,4 @@
-## Hi there 👋
+![Logo de Valeria Yunga - Software Engineer](https://github.com/valeriayunga/valeriayunga/blob/main/image_13.png?raw=true)
 
 <!--
 **valeriayunga/valeriayunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
