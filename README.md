@@ -1,4 +1,4 @@
-![Logo de Valeria Yunga - Software Engineer](https://github.com/valeriayunga/valeriayunga/blob/main/Banner%20de%20LinkedIn%20negocios%20color%20amarillo.png)
+![Logo de Valeria Yunga - Software Engineer](https://github.com/valeriayunga/valeriayunga/blob/main/Banner.png)
 
 # ¡Hola! Soy Valeria Yunga 👋
 
