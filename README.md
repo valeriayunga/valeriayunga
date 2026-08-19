@@ -4,15 +4,6 @@
 
 Desarrolladora de software enfocada en crear aplicaciones web y móviles, y explorando la integración de inteligencia artificial en proyectos reales.
 
----
-
-### 📌 Sobre mí
-- 💻 **Qué hago:** Desarrollo interfaces con **Angular** y apps móviles con **Flutter**, además de construir APIs con **FastAPI**.
-- 🤖 **Qué estoy explorando:** Proyectos prácticos con **LLMs, LangGraph y RAG** para automatización y análisis de datos.
-- 🎨 **Diseño:** Me apoyo en **Figma** para prototipar antes de tirar código.
-- 📚 **Aprendiendo constantemente:** Nuevas arquitecturas, buenas prácticas y mejorando mi inglés técnico.
-
----
 
 ### 🛠️ Tecnologías y Herramientas con las que trabajo
 
